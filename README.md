@@ -1,6 +1,8 @@
-#Unite Seoul 2025 - Best Practices for Addressables
+# Unite Seoul 2025 - Best Practices for Addressables
 
-[TOCM]
+- Event: Unite Seoul 2025: Create Today, Grow Tomorrow
+- Date: April 15, 2025
+- Venue: Convention & Exhibition Center (COEX), Seoul, South Korea
 
 ## Introduction to Addressables
 
@@ -39,6 +41,7 @@
 ## AssetReference and AssetLabelReference
 
 
-## Useful information
+## Useful resources
 
 - [Addressables Samples](https://github.com/Unity-Technologies/Addressables-Sample "Addressables Samples")
+- [Unity Data Tools](https://github.com/Unity-Technologies/UnityDataTools "Unity Data Tools")

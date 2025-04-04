@@ -1,6 +1,8 @@
 # Unite Seoul 2025 - Best Practices for Addressables
 
-- Event: Unite Seoul 2025: Create Today, Grow Tomorrow
+![](https://github.com/Unity-Technologies/unite-seoul-2025-addressables/blob/main/Images/unite_seoul_2025_banner.jpeg?raw=true)
+
+- Event: Unite Seoul 2025 - Create Today, Grow Tomorrow
 - Date: April 15, 2025
 - Venue: Convention & Exhibition Center (COEX), Seoul, South Korea
 

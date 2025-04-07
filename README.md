@@ -33,23 +33,23 @@
 
 ## Using labels for selective loading
 
-- [Labels overview](https://shorturl.at/trE9I "Labels overview")
+- [Labels overview](https://on.unitysquare.co.kr/3R5IaeZ "Labels overview")
 
 ## Load path branching
 
-- [Change resource URL](https://shorturl.at/H8ow5 "Change resource URL")
+- [Change resource URL](https://on.unitysquare.co.kr/4jeyDhM "Change resource URL")
 
 ## Remapper and Addressables
 
-- [Organize Addressable assets](https://shorturl.at/TJslk "Organize Addressable assets")
-- [Concurrent content grouping](https://shorturl.at/owC0S "Concurrent content grouping")
+- [Organize Addressable assets](https://on.unitysquare.co.kr/3EebH3h "Organize Addressable assets")
+- [Concurrent content grouping](https://on.unitysquare.co.kr/4i2DJwA "Concurrent content grouping")
 
 ## AssetReference and AssetLabelReference
 
-- [AssetReference](https://shorturl.at/qs3EV "AssetReference")
-- [AssetLabelReference](https://shorturl.at/gFUFj "AssetLabelReference")
-- [AssetReferenceT](https://shorturl.at/0isRS "AssetReferenceT")
-- [Create asset reference fields](https://shorturl.at/gF3OI "Create asset reference fields")
+- [AssetReference](https://on.unitysquare.co.kr/3RAQcfZ "AssetReference")
+- [AssetLabelReference](https://on.unitysquare.co.kr/4lkHro0 "AssetLabelReference")
+- [AssetReferenceT](https://on.unitysquare.co.kr/4jleab6 "AssetReferenceT")
+- [Create asset reference fields](https://on.unitysquare.co.kr/3YkNejv "Create asset reference fields")
 
 ## Useful resources
 

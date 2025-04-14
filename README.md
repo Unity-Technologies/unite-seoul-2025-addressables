@@ -13,9 +13,11 @@
 
 ## Reducing non-determinism in asset bundles
 
+- [Unity Release Notes Tool](https://alpha.release-notes.ds.unity3d.com/ "Unity Release Notes Tool")
 - [Build Layout Report](https://on.unitysquare.co.kr/3FS6VZO "Build Layout Report")
 - [BuildLayout (API)](https://on.unitysquare.co.kr/43IbzUd "BuildLayout (API)")
 - [BuildLayoutHelpers (API)](https://on.unitysquare.co.kr/42ggucv "BuildLayoutHelpers (API)")
+- [Code Sample: BuildLayoutAnalyzer.cs](https://github.com/Unity-Technologies/unite-seoul-2025-addressables/blob/main/AssetBundleDeterminism/BuildLayoutAnalyzer.cs "BuildLayoutAnalyzer.cs")
 
 ## Asset bundle hash & bundle naming
 
@@ -26,7 +28,7 @@
 - [Remote Catalog](https://on.unitysquare.co.kr/3RyvNrY "Remote Catalog")
 - [Player Version Override](https://on.unitysquare.co.kr/4lkMVPU "Player Version Override")
 
-## Separating project contents
+## Loading content from separate projects
 
 - [Load additional catalogs](https://on.unitysquare.co.kr/4jl5nWJ "Load additional catalogs")
 - [Load content from multiple projects](https://on.unitysquare.co.kr/4iNBi20 "Load content from multiple projects")
